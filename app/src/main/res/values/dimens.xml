@@ -2,4 +2,5 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="petite_marge">8dp</dimen>
     <dimen name="taille_photo">300dp</dimen>
+    <dimen name="taille_bouton">32dp</dimen>
 </resources>
